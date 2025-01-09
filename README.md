@@ -44,7 +44,7 @@ console.log(greet("World")); // Hello, World!
 O operador de exponenciação (\*\*) foi introduzido no ES7 (2016) e é usado para calcular a potência de um número. Em essência, ele é uma forma mais simples e legível de usar a função Math.pow().
 
 ```javascript
-console.log(2 \*_ 3); // 2 elevado à potência 3 = 2 * 2 * 2 = 8
+console.log(2 ** 3); // 2 elevado à potência 3 = 2 * 2 * 2 = 8
 ```
 
 ### Array Includes
